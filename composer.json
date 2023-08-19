@@ -1,0 +1,17 @@
+{
+    "name": "michal/graph",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\Graph\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "michaldabrowski98",
+            "email": "mdboxman@gmail.com"
+        }
+    ],
+    "require": {}
+}
