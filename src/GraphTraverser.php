@@ -3,7 +3,6 @@
 namespace App\Graph;
 
 use App\Graph\Queue\Queue;
-use SplQueue;
 
 class GraphTraverser
 {
